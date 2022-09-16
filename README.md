@@ -17,6 +17,6 @@ Es un sitio Web que contiene páginas con contenido sin determinar, parcialmente
 Es una aplicación (en local o en linea) que permite editar un texto, una hoja de cálculo, una
 presentación
 
-5.[Herramientas de Google](chrome://settings/"Titulo opcional")
+5.[Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/)
 
 
